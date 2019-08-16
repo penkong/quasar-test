@@ -1,6 +1,6 @@
 {
   "name": "safa-ui",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "ui base package for safa company made of quasar",
   "main": "./lib/index.js",
   "scripts": {
