@@ -1,13 +1,18 @@
 {
   "name": "safa-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ui base package for safa company made of quasar",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "quasar": "^1.0.5"
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "quasar": "^1.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0"
   },
   "author": "nazemi-safa",
   "license": "ISC"
